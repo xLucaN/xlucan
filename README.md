@@ -1,4 +1,8 @@
-### Hi there 👋
+### xLucaN
+
+- 🔭 I’m currently working on NightFront.eu
+- 💬 Ask me about Custom Minecraft Plugins
+- 📫 How to reach me: Discord: Lucaa#3162
 
 <!--
 **xLucaN/xlucan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
