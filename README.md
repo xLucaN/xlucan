@@ -1,12 +1,7 @@
 ### xLucaN
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=Rustacean;Developer"></a>
-</p>
-
 <br>
 
-<p align="center"> 
+<p align="sider"> 
 	<img src="https://komarev.com/ghpvc/?username=xLucaN&label=Profile%20views&color=0e75b6&style=plastic" alt="charonxyz" /> 
 </p>
 
